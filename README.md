@@ -1,3 +1,3 @@
 # Thumbnail_maker
-use CRA with typescript
-make thumbnail
+- make thumbnail
+- use CRA with typescript
